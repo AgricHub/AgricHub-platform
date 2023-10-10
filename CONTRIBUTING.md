@@ -1,90 +1,66 @@
-# Contribution Guidelines
+# Contributing to AgricHub-Platform
 
-Welcome to our agricultural products project! We appreciate your interest in contributing. Whether you're a developer, designer, researcher, or simply want to help in any way, we value your contributions.
+Welcome to the AgricHub-Platform repository! We appreciate your interest in contributing. Whether you're a developer, designer, tester, writer, or have other valuable skills, your contributions are essential to the success of our project.
 
-Before you get started, please take a moment to read through these contribution guidelines to ensure a smooth and collaborative experience.
+Please take a moment to read through this guide to understand how you can contribute effectively.
 
 ## Table of Contents
-- [Contribution Guidelines](#contribution-guidelines)
+
+- [Contributing to AgricHub-Platform](#contributing-to-agrichub-platform)
   - [Table of Contents](#table-of-contents)
-  - [How to Contribute](#how-to-contribute)
   - [Getting Started](#getting-started)
-  - [Code of Conduct](#code-of-conduct)
-  - [Reporting Issues](#reporting-issues)
+  - [Issues](#issues)
   - [Feature Requests](#feature-requests)
   - [Pull Requests](#pull-requests)
-  - [Development Setup](#development-setup)
-    - [Official Website (Website Directory)](#official-website-website-directory)
-    - [User Dashboard (Dashboard Directory)](#user-dashboard-dashboard-directory)
+  - [Coding Guidelines](#coding-guidelines)
   - [Testing](#testing)
   - [Documentation](#documentation)
   - [Contact](#contact)
-
-## How to Contribute
-
-Here are some ways you can contribute to our project:
-
-- Reporting issues and bugs
-- Suggesting new features or improvements
-- Writing code (features, bug fixes, or documentation)
-- Reviewing and testing pull requests
-- Helping with documentation improvements
-- Providing feedback and ideas
+  - [AgricHub-Platform Team](#agrichub-platform-team)
 
 ## Getting Started
 
-If you're new to our project, we recommend the following steps to get started:
+Before you start contributing, ensure you have the following prerequisites:
 
-1. **Clone the repository:** Use `git clone` to create a local copy of the main repository.
+- [Node.js](https://nodejs.org/) installed.
+- [Git](https://git-scm.com/) installed.
 
-2. **Choose your focus:** Our project consists of two major parts:
-   - Official Website: If you want to work on the official website frontend, navigate to the `website` directory.
-   - User Dashboard: If you're interested in the user dashboard frontend, navigate to the `dashboard` directory.
+Now, follow these steps to set up the project locally:
 
-3. **Set up a development environment:** Refer to the [Development Setup](#development-setup) section below for instructions on setting up your development environment based on your chosen focus.
+1. **Fork the repository:** Click the "Fork" button in the upper right-hand corner of this repository to create your copy.
 
-4. **Make changes:** Work on your changes, whether it's fixing a bug, adding a feature, or improving documentation.
+2. **Clone your fork:** Use `git clone` to create a local copy of your forked repository.
 
-5. **Test your changes:** Ensure your changes work as expected. Refer to the [Testing](#testing) section for guidance.
+3. **Install dependencies:** Run `npm install` in the project's root directory to install the required packages.
 
-6. **Create a pull request:** When you're ready, submit a pull request to the main repository's `main` branch, specifying whether your changes are related to the website or the dashboard.
+4. **Start the development server:** Use `npm run dev` to start the Next.js development server.
 
-## Code of Conduct
+5. **Make changes:** Work on your changes, whether it's fixing a bug, adding a feature, or improving documentation.
 
-Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all contributors to adhere to. By participating in our project, you agree to abide by its terms.
+6. **Test your changes:** Ensure your changes work as expected. Refer to the [Testing](#testing) section for guidance.
 
-## Reporting Issues
+7. **Create a pull request:** When you're ready, submit a pull request to the main repository's `main` branch.
 
-If you encounter a bug or have a problem with the project, please report it by opening an issue on our [Issue Tracker](https://github.com/your/repository/issues).
+## Issues
+
+If you encounter a bug, have a feature request, or want to suggest an improvement, please open an issue on our [Issue Tracker](https://github.com/your/repository/issues). Follow the issue template and provide detailed information.
 
 ## Feature Requests
 
-If you have an idea for a new feature or an improvement to an existing one, please open an issue on our [Issue Tracker](https://github.com/your/repository/issues) and label it accordingly based on whether it's related to the website or the dashboard.
+If you have an idea for a new feature or an improvement, please open an issue on our [Issue Tracker](https://github.com/your/repository/issues) and label it as a "feature request." Describe your proposal and the problem it addresses.
 
 ## Pull Requests
 
-We welcome contributions in the form of pull requests. Please follow these guidelines when creating pull requests:
+We welcome contributions in the form of pull requests. When creating a pull request, please follow these guidelines:
 
-- Ensure your code is well-documented and follows our coding style.
-- Provide a clear and concise description of your changes in the pull request.
+- Ensure your code follows our [Coding Guidelines](#coding-guidelines).
+- Provide a clear and concise description of your changes.
 - Reference any related issues in your pull request.
 - Be prepared to address feedback and make necessary changes during the review process.
 
-## Development Setup
+## Coding Guidelines
 
-To set up a development environment for your chosen focus, follow these steps:
-
-### Official Website (Website Directory)
-
-1. [Installation instructions and prerequisites for the website]
-2. [Configuration steps specific to the website]
-3. [Running the website locally]
-
-### User Dashboard (Dashboard Directory)
-
-1. [Installation instructions and prerequisites for the dashboard]
-2. [Configuration steps specific to the dashboard]
-3. [Running the dashboard locally]
+We follow a set of coding guidelines to maintain code consistency and readability. Please review our [Coding Guidelines](CODING_GUIDELINES.md) for detailed information on coding standards.
 
 ## Testing
 
@@ -98,9 +74,8 @@ We value clear and comprehensive documentation. If you make changes to the proje
 
 ## Contact
 
-If you have questions or need assistance, you can reach out to us at [your contact email or communication channel].
+If you have questions, need assistance, or want to discuss your contribution, you can reach out to us in our community forum, [Slack channel], or via email at [contact email].
 
-Thank you for contributing to our agricultural products project! Your efforts are greatly appreciated.
+Thank you for contributing to AgricHub-Platform! Your contributions help us grow and improve our agricultural platform.
 
-[AgricHub Project Team]
-<!-- [Your Contact Information] -->
+## AgricHub-Platform Team
