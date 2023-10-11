@@ -74,7 +74,7 @@ We value clear and comprehensive documentation. If you make changes to the proje
 
 ## Contact
 
-If you have questions, need assistance, or want to discuss your contribution, you can reach out to us in our community forum, [Slack channel], or via email at [contact email].
+If you have questions, need assistance, or want to discuss your contribution, you can reach out to us in our community forum, [Slack channel](https://join.slack.com/t/agrichub-platform/shared_invite/zt-24sy10g1h-TDTxLy6gUIyCd0IeYZX9Cg), or via email at [contact email].
 
 Thank you for contributing to AgricHub-Platform! Your contributions help us grow and improve our agricultural platform.
 
